@@ -1,5 +1,5 @@
 {
-    "root": "public/home.html",
+    "root": "public#home",
     "clean_urls": true,
     "https_only": true,
     "error_pages": "error.html",
