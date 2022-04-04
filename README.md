@@ -42,4 +42,17 @@ pay by debit card
 checkout
 
 # Website flow
-*Signup and Login
+*Signup and Login <br/>
+
+*Home Page > Products on Navbar > Furniture from Menu > Furniture sets <br />
+
+*Choose products number two or three > Add to shopping cart <br />
+
+*Cart option on navbar right side <br />
+
+*Click and collect <br />
+
+*Place order the first one <br />
+
+*and continue to further process
+
