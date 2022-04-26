@@ -16,7 +16,7 @@ IKEA is a global leader in life at home. Founded in Sweden in 1943, IKEA is now 
 Go to this link:-
 
 ```
-  https://ikea-clone-frontend-masai.herokuapp.com/home.html
+  https://sanjeetsangam.github.io/ikea/
 ```
 
 
